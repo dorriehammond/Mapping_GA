@@ -53,6 +53,5 @@ ggplot(mappingCounty) +
 ```
 
 ## Step 5. Output Map
-[Ratio2019.pdf](https://github.com/dorriehammond/Mapping_GA/files/6902907/Ratio2019.pdf)
-
+![Map](https://github.com/dorriehammond/Mapping_GA/blob/main/Tutorial/Ratio2019.pdf)
 
